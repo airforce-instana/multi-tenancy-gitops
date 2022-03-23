@@ -163,7 +163,7 @@ spec:
 
           cluster:
             # cluster.name represents the name that will be assigned to this cluster in Instana
-            name: cluster-name
+            name: itzroks-6630023d5n-0tvwlc6x
 
           leaderElector:
             image:
@@ -212,7 +212,7 @@ spec:
 
           zone:
             # zone.name is the custom zone that detected technologies will be assigned to
-            name: zone-name
+            name: sjc03
 
           kubernetes:
             # Configures use of a Deployment for the Kubernetes sensor rather than as a potential member of the DaemonSet
